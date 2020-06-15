@@ -1,0 +1,1 @@
+# swig-cpp-golang-demo
